@@ -4,7 +4,7 @@ It is simple Snake game which was written in C++ (OOP).
 
 ## Ukázka hry
 
-![Ukázka hry](https://github.com/LukasPetrak/Projects/blob/main/Nonogram/nono/gif.gif)
+![Ukázka hry](https://github.com/LukasPetrak/Snake/blob/main/gif.gif)
 
 ## Game Controls
 
