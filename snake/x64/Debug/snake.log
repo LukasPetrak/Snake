@@ -1,0 +1,6 @@
+﻿  snake.cpp
+C:\Users\Lukas\Documents\GitHub\Snake\snake\snake.cpp(291,48): warning C4244: =: double se převádí na int; může dojít ke ztrátě dat.
+C:\Users\Lukas\Documents\GitHub\Snake\snake\snake.cpp(292,48): warning C4244: =: double se převádí na int; může dojít ke ztrátě dat.
+C:\Users\Lukas\Documents\GitHub\Snake\snake\snake.cpp(480,27): warning C4838: Převod z: int na: SHORT vyžaduje zužující převod.
+C:\Users\Lukas\Documents\GitHub\Snake\snake\snake.cpp(583,15): warning C4244: argument: time_t se převádí na unsigned int; může dojít ke ztrátě dat.
+  snake.vcxproj -> C:\Users\Lukas\Documents\GitHub\Snake\x64\Debug\snake.exe
