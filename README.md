@@ -16,7 +16,7 @@ It is simple Snake game which was written in C++ (OOP).
 
 Clone this repository
    ```bash
-   git clone https://github.com/LukasPetrak/Snake/tree/main
+   git clone https://github.com/LukasPetrak/Snake
    ```
 Run the game
    ```bash
