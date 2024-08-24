@@ -16,7 +16,7 @@ It is simple Snake game which was written in C++ (OOP).
 
 Clone this repository
    ```bash
-   git clone https://github.com/LukasPetrak/Projects/tree/main/Nonogram
+   git clone https://github.com/LukasPetrak/Snake/tree/main
    ```
 Run the game
    ```bash
